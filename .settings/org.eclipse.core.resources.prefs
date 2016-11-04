@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//baike_spider/html_downloader.py=utf8
+encoding//baike_spider/html_outputer.py=utf8
+encoding//baike_spider/html_parser.py=utf8
+encoding//baike_spider/spider_main.py=utf8
+encoding//baike_spider/url_manager.py=utf8
+encoding//common/html_downloader.py=utf8
+encoding//common/url_manager.py=utf8
+encoding//test/MyHTMLParser.py=utf8
+encoding//test/download.py=utf8
+encoding//test/test_bs4.py=utf8
+encoding//test/test_urlib2.py=utf8
+encoding//torsky_org/html_outputer.py=utf8
+encoding//torsky_org/html_parser.py=utf8
+encoding//torsky_org/spider_main.py=utf8
+encoding//www1000rt/html_parser.py=utf8
+encoding//www1000rt/spider_main.py=utf8
